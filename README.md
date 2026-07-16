@@ -217,44 +217,6 @@ Bill Summary: 2 night(s) x Rs.2500.00 = Rs.5000.00
   the original spec, not built here).
 - One active booking per room at a time (no multi-date-range calendar).
 
-  ## Screenshots
-
-### Project Folder Structure
-![Project Folder Structure](screenshots/01-project-folder-structure.png)
-
-### Main Menu
-![Main Menu](screenshots/02-main-menu.png)
-
-### Available Room List
-![Available Room List](screenshots/03-available-room-list.png)
-
-### Room Search Output
-![Room Search Output](screenshots/04-room-search-output.png)
-
-### Guest Detail Input
-![Guest Detail Input](screenshots/05-guest-detail-input.png)
-
-### Booking Confirmation
-![Booking Confirmation](screenshots/06-booking-confirmation.png)
-
-### Bill Summary
-![Bill Summary](screenshots/07-bill-summary.png)
-
-### Booking History
-![Booking History](screenshots/08-booking-history.png)
-
-### Cancellation Output
-![Cancellation Output](screenshots/09-cancellation-output.png)
-
-### Saved Booking File
-![Saved Booking File](screenshots/10-saved-booking-file.png)
-
-### GitHub Repository Preview
-![GitHub Repository Preview](screenshots/11-github-repository-preview.png)
-
-### README Preview
-![README Preview](screenshots/12-readme-preview.png)
-
 ## Future Improvements
 
 - JDBC + MySQL integration for persistent, multi-user storage
