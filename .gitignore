@@ -1,0 +1,19 @@
+# Compiled class files
+bin/
+*.class
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ project files (in case someone opens it there)
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
