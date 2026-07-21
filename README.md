@@ -236,6 +236,10 @@ Bill Summary: 2 night(s) x Rs.2500.00 = Rs.5000.00
 
 ## Author
 
-Built as a Java course project to demonstrate OOP, collections, file
-handling, and console application design — intended as a GitHub proof-of-work
-project for Java Developer / Backend Developer roles.
+**Name:** *Shravani Margal*
+**Course:** *Electronic & Telecommunication engineering*
+**GitHub:** https://github.com/shravani358/To-Do-List-Manager-Local-Storage
+**LinkedIn:** *https://www.linkedin.com/in/shravani-margal-80a520316?utm_source=share_via&utm_content=profile&utm_medium=member_android*
+
+Project submitted as a Java course project and portfolio proof of work.
+
